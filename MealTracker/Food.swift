@@ -6,3 +6,10 @@
 //
 
 import Foundation
+struct Food {
+    var description : String
+    var name : String
+    
+    
+    
+}
