@@ -7,7 +7,7 @@
 
 import Foundation
 struct Meal{
-    var name : String
-    var food : [Food]
+    let name : String
+    let food : [Food]
     
 }

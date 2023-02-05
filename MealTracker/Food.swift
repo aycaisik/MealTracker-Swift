@@ -7,8 +7,8 @@
 
 import Foundation
 struct Food {
-    var description : String
-    var name : String
+    let description : String
+    let name : String
     
     
     
